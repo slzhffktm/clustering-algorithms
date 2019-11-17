@@ -1,2 +1,3 @@
-# clustering-algorithms
-Implementations of clustering algorithms: K-Means, DBSCAN, and Agglomerative Hierarchical
+# Clustering Algorithm Implementations
+
+Implementation of clustering algorithms: K-Means, DBSCAN, and Agglomerative Hierarchical
